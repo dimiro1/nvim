@@ -2,5 +2,6 @@
 -- Default options that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
 -- Add any additional options here
 
-vim.o.guifont = "RecMonoCasual Nerd Font:h13"
+vim.o.guifont = "Jetbrains Mono:h12"
 vim.opt.linespace = 2
+vim.opt.scrolloff = 8

@@ -3,7 +3,7 @@ return {
   opts = {
     servers = {
       denols = {
-        enabled = true,
+        enabled = false,
       },
     },
   },
